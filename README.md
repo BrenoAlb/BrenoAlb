@@ -1,40 +1,21 @@
-💫 About Me:
-╰(°▽°)╯ Hello, I’m a Junior Front End Developer called Breno!
-
-📖 My short story in development start in 2018 with C++ in the Chemical engineering graduation. In 2020, I stopped my graduation to treat a health problem and, in 2022 start studying Web Development.
-
-👯 I’m looking to work and learn to be a great deveper and help my family.
-
-🔊 I speak English, Spanish and Portuguese .
-
-(☞ﾟヮﾟ)☞ My knowledge ​​is :
-javascript and Typescript(React.js, React Native) ;
-HTML5, CSS3 ;
-C++(1 year of experience in graduation) ;
-Redux ;
-Node.js ;
-Yarn ;
-Git ;
-Basic knowledge in Kotlin ;
-
-⚡ 5 Fun fact :
-I love gastronomy and know places through it ;
-I intend to go to IT college, since I didn't finish engineering ;
-I value good working relationships and consider myself good at dealing with people ;
-Since I had health problems, I always keep exams up to date and I have great professionals helping me to always be well ;
-Love dogs🐾 and cats 😻;
-
-🌐 Socials:
-Instagram LinkedIn
-
-💻 Tech Stack:
-JavaScript CSS3 C++ Kotlin TypeScript HTML5 Heroku Vercel Bootstrap Insomnia NPM Next JS NodeJS React Native React React Router Redux Semantic UI React SASS TailwindCSS Styled Components Yarn Adobe Illustrator Adobe Photoshop Figma Canva Babel Notion Prezi Trello
-
-📊 GitHub Stats:
+# 💫 About Me:
+╰(*°▽°*)╯ Hello, I’m a Junior Front End Developer called Breno!<br><br>📖 My short story in development start in 2018 with C++ in the Chemical engineering graduation. In 2020, I stopped my graduation to treat a health problem and, in 2022 start studying Web Development.<br><br>👯 I’m looking to work and learn to be a great deveper and help my family.<br><br>🔊 I speak English, Spanish and Portuguese .<br><br>(☞ﾟヮﾟ)☞ My knowledge ​​is :<br>            javascript and Typescript(React.js, React Native) ;<br>            HTML5, CSS3 ;<br>            C++(1 year of experience in graduation) ;<br>            Redux ;<br>            Node.js ;<br>            Yarn ;<br>            Git ;<br>            Basic knowledge in Kotlin ;<br><br>⚡ 5 Fun fact :<br>            I love gastronomy and know places through it ;<br>            I intend to go to IT college, since I didn't finish engineering ;<br>            I value good working relationships and consider myself good at dealing with people ;<br>            Since I had health problems, I always keep exams up to date and I have great professionals helping me to always be well ;<br>            Love dogs🐾 and cats 😻;
 
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/brenoalbertodealmeida/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/brenoalberto/) 
 
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=BrenoAlb&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=BrenoAlb&theme=shades-of-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoAlb&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-🏆 GitHub Trophies
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=BrenoAlb&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
+---
+[![](https://visitcount.itsvg.in/api?id=BrenoAlb&icon=8&color=6)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
